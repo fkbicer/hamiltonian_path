@@ -1,0 +1,5 @@
+algorithm,n,trial,result,time_sec
+naive,4,1,False,0.0001255999959539622
+naive,5,1,False,0.0011669999948935583
+naive,6,1,False,0.015358699994976632
+naive,7,1,True,0.3351840999966953
